@@ -304,7 +304,7 @@ VexarDrive-Fleet-Analytics/
 │
 ├── VexarDrive_Analysis.ipynb
 │
-├── dashboards/
+├── dashboard/
 │   ├── driver_safety_dashboard.png
 │   └── vehicle_health_dashboard.png
 │
